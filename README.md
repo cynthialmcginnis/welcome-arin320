@@ -13,7 +13,7 @@ Built with [three.js](https://threejs.org/). Everything is in one file, `index.h
 Open the GitHub Pages address for this repository:
 
 ```
-https://<your-username>.github.io/<repository-name>/
+https://cynthialmcginnis.github.io/welcome-arin320/
 ```
 
 To turn Pages on: **Settings > Pages > Deploy from a branch > main > / (root) > Save**. The address appears on that same screen after a minute or two.
